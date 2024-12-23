@@ -6,7 +6,7 @@ metadata:
     creationTimestamp: "2024-12-18T13:34:27Z"
   generation: 1
   labels:
-    app.kubernetes.io/instance: deployapp
+    app.kubernetes.io/instance: demo-app
     run: hr-service-dev
   name: hr-service-dev
   namespace: default
